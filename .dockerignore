@@ -1,0 +1,11 @@
+target/
+.git/
+.gitignore
+README.md
+SECURITY.md
+CODE_OF_CONDUCT.md
+LICENSE
+.github/
+.vscode/
+Dockerfile
+.dockerignore
